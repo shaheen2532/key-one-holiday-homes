@@ -1,0 +1,39 @@
+.herotext {
+    margin: 0% 0% 0% 10%;
+    font-weight: 800;
+    font-size: 60px;
+    font-stretch: normal;
+    padding-top: 200px;
+    color: white;
+}
+
+.subtext {
+    margin: 0% 0% 0% 10%;
+    font-size: 20px;
+    color: white;
+}
+
+.apaSubtext {
+    text-align: center;
+}
+
+.heading {
+    color: white;
+    font-weight: bold;
+}
+
+.subheading {
+    font-weight: 200;
+    color: white;
+    font-size: 15px;
+}
+
+.trailer {
+    font-weight: 200;
+    color: white;
+    font-size: 10px;
+}
+
+.absImage {
+    margin: -18% 0% 0% 30%;
+}
